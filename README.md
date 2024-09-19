@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Rafael2727
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Rafael2727 1st year BSIT 
+- 👀 I’m interested in Web and App Development.
+- 🌱 I’m currently learning Front-End tools; eg...HTML,CSS,JS,NODE.JS,REACT;
+- 💞️ I’m looking to collaborate on Improving skills
+- 📫 How to reach me: With my Facebook; Rafael Batnag/Raf Rap Batnag  and Instagram; rafael_batnag
 
-<!---
-Rafael2727/Rafael2727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
